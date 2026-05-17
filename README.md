@@ -3,6 +3,9 @@
 > **novice-dev-with-ai** — An AI-assisted classroom for learning modern web development
 > from scratch. Built for complete beginners. Powered by Claude, GitHub Copilot, and
 > the Everything Claude Code (ECC) AI agent system.
+>
+> 📡 **Format:** Live Zoom Sessions &nbsp;|&nbsp; 📅 **Duration:** 4 Days &nbsp;|&nbsp; ⏱ **Each session:** 2 Hours
+> Day 1: Environment Setup &nbsp;|&nbsp; Days 2–4: HTML, CSS, Flexbox & Responsive Design
 
 ---
 
@@ -10,10 +13,36 @@
 
 | I am a... | Go to... |
 |---|---|
-| **Student (Day 1)** | [Before You Start — Required Setup](#before-you-start--required-setup) |
-| **Student (returning)** | [Your Daily 8-Step Workflow](#student-workflow--your-daily-8-steps) |
-| **Student (stuck on code)** | [How to Ask for Help](#how-to-ask-for-help) |
-| **Instructor** | [`TEACHING-GUIDE.md`](./TEACHING-GUIDE.md) — full day-of-class playbook |
+| **Student — first time here** | 👉 Read [`STUDENT-GUIDE.md`](./STUDENT-GUIDE.md) — your complete course guide |
+| **Student — Day 1 setup** | [Environment Setup](#day-1-environment-setup) in the Student Guide |
+| **Student — returning** | [Your Daily 8-Step Workflow](#student-workflow--your-daily-8-steps) below |
+| **Student — stuck on code** | [How to Ask for Help](#how-to-ask-for-help) below |
+| **Instructor** | 👉 [`TEACHING-GUIDE.md`](./TEACHING-GUIDE.md) — full Zoom day-of-class playbook |
+
+> 📌 **Students:** Your main reference is [`STUDENT-GUIDE.md`](./STUDENT-GUIDE.md).
+> It has everything — setup, day-by-day exercises, AI prompts, and submission steps.
+
+---
+
+## 📅 Course Schedule
+
+| Day | Topic | Duration | Format |
+|---|---|---|---|
+| **Day 1** | Environment Setup — Git, VS Code, Clone Repo, First Commit | 2 hours | Zoom — follow along |
+| **Day 2** | HTML Basics — Boilerplate, Tags, Elements, Your First Page | 2 hours | Zoom — concept + exercises |
+| **Day 3** | Semantic HTML + CSS Introduction — Box Model, Typography | 2 hours | Zoom — concept + exercises |
+| **Day 4** | Flexbox + Responsive Design + Final Personal Page | 2 hours | Zoom — build + share |
+
+**Every session follows this pattern:**
+```
+[0:00–0:10]  Review + warm-up
+[0:10–0:30]  Concept introduction (instructor explains, AI reinforces)
+[0:30–0:50]  Live demo on screen
+[0:50–1:20]  Exercises (you code, instructor circulates)
+[1:20–1:45]  AI code review + screen shares
+[1:45–1:55]  Commit and push to GitHub
+[1:55–2:00]  Homework + preview of next session
+```
 
 ---
 
